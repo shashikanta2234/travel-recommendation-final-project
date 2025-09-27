@@ -15,7 +15,7 @@ trips.
 
 ## 📂 Project Structure
 
-    travel-recommendation-site/
+    travel-recommendation-final-project/
     │
     ├── index.html        # Home Page
     ├── about.html        # About Us Page
