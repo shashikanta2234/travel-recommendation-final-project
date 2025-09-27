@@ -73,13 +73,13 @@ This project fulfills the following criteria (20 points total):
 1.  Clone the repository:
 
     ``` bash
-    git clone https://github.com/your-username/travel-recommendation-site.git
+    git clone https://github.com/your-username/travel-recommendation-final-project.git
     ```
 
 2.  Navigate into the project folder:
 
     ``` bash
-    cd travel-recommendation-site
+    cd travel-recommendation-final-project
     ```
 
 3.  Open `index.html` in any modern web browser.
